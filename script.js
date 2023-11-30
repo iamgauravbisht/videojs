@@ -104,5 +104,5 @@ function createMarkers(arrayOFSegment, totalDuration) {
     });
   });
 
-  console.log("box:", box);
+  // console.log("box:", box);
 }
